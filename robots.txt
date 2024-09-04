@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cophicipi.github.io/sitemap.html.gz
+Sitemap: https://cophicipi.github.io/app/sitemap.html.gz
+Sitemap: https://cophicipi.github.io/assets/sitemap.html.gz
+Sitemap: https://cophicipi.github.io/css/sitemap.html.gz
+Sitemap: https://cophicipi.github.io/includes/sitemap.html.gz
+Sitemap: https://cophicipi.github.io/item/sitemap.html.gz
+Sitemap: https://cophicipi.github.io/src/sitemap.html.gz
